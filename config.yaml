@@ -111,6 +111,7 @@ lab_structure:
   - title: Lab 8 - Synchronization
     filename: lab8.md
     content:
+      - reading/lab8.md
       - tasks/race-condition.md
       - tasks/wrap-the-for.md
       - tasks/race-condition-atomic.md
@@ -141,6 +142,7 @@ lab_structure:
   - title: Lab 10 - Inter-Process Communication
     filename: lab10.md
     content:
+      - reading/lab10.md
       - tasks/named-pipes.md
       - tasks/unix-socket.md
       - tasks/network-socket.md
