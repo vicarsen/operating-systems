@@ -2,16 +2,18 @@
 
 #include <stdlib.h>
 
-int main(void)
-{
-	void *p;
+int main(void) {
+  void *p;
 
-	/* TODO: Use malloc() to allocate memory of different sizes.
-	 * Store result in p.
-	 * Use free() to deallocate memory.
-	 * Use ltrace and strace command line tools to monitor library
-	 * and system calls.
-	 */
+  /* TODO: Use malloc() to allocate memory of different sizes.
+   * Store result in p.
+   * Use free() to deallocate memory.
+   * Use ltrace and strace command line tools to monitor library
+   * and system calls.
+   */
 
-	return 0;
+  p = malloc(140000);
+  free(p);
+
+  return 0;
 }
