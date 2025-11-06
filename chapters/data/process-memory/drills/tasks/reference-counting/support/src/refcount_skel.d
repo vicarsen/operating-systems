@@ -115,6 +115,6 @@ void test2()
 void main()
 {
     RefCountedIntArray arr = RefCountedIntArray([1, 2, 6]);
-    //test1();
+    test1();
     //test2();
 }
