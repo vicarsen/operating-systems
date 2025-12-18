@@ -1,0 +1,7 @@
+/home/victor/Documents/UPB/SO/operating-systems/chapters/compute/user-level-threads/guides/user-level-threads/support/CMakeFiles/simple.dir
+/home/victor/Documents/UPB/SO/operating-systems/chapters/compute/user-level-threads/guides/user-level-threads/support/CMakeFiles/sum.dir
+/home/victor/Documents/UPB/SO/operating-systems/chapters/compute/user-level-threads/guides/user-level-threads/support/CMakeFiles/yield_launch.dir
+/home/victor/Documents/UPB/SO/operating-systems/chapters/compute/user-level-threads/guides/user-level-threads/support/CMakeFiles/yield_barrier.dir
+/home/victor/Documents/UPB/SO/operating-systems/chapters/compute/user-level-threads/guides/user-level-threads/support/CMakeFiles/threads_and_fibers.dir
+/home/victor/Documents/UPB/SO/operating-systems/chapters/compute/user-level-threads/guides/user-level-threads/support/CMakeFiles/edit_cache.dir
+/home/victor/Documents/UPB/SO/operating-systems/chapters/compute/user-level-threads/guides/user-level-threads/support/CMakeFiles/rebuild_cache.dir

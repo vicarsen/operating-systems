@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/threads_and_fibers.dir/link.d CMakeFiles/threads_and_fibers.dir/threads_and_fibers.cc.o -o threads_and_fibers  /usr/lib/libboost_fiber.so.1.89.0 /usr/lib/libboost_context.so.1.89.0 /usr/lib/libboost_filesystem.so.1.89.0
